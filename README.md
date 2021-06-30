@@ -1,7 +1,7 @@
 ## Hi I'm Stanislav. 👋
 
 #### I am a highly qualified Voice (VoIP) Engineer with 20+ years of experience in the industry
-#### currently learning Java SE and seeking for opportunities to become a developer
+#### Currently learning Java SE and seeking for opportunities to become a developer
 
 ---
 
