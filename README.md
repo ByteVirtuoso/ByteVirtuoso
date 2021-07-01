@@ -8,10 +8,29 @@
 Licenses & Certifications:
 * [Java Core](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
 
+---
+<div class="row" width = 100%>
+	
+<div class="column" style="float: left;
+  width: 50%;
+  padding: 10px;" >
+		<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ProsperousRF" alt="Anurag's GitHub stats"></a>
+</div>
 
+<div class="column" style="float: left;
+  width: 50%;
+  padding: 10px;">
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousRF" alt="Top Langs"></a>
+</div>
 
+</div>
+
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProsperousRF)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousRF&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
+---
 
 <p align="center">
 	<a href="https://twitter.com/ProsperousRF">
