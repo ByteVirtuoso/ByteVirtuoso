@@ -9,26 +9,14 @@ Licenses & Certifications:
 * [Java Core](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
 
 ---
-<div class="row" width = 100%>
-	
-<div class="column" style="float: left;
-  width: 50%;
-  padding: 10px;" >
-		<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api?username=ProsperousRF" alt="Anurag's GitHub stats"></a>
-</div>
 
-<div class="column" style="float: left;
-  width: 50%;
-  padding: 10px;">
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousRF" alt="Top Langs"></a>
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ProsperousRF&count_private=true&include_all_commits=true&disable_animations=true&hide_border=true&line_height=27" alt="Stanislav's GitHub stats">
+</a>
 
-</div>
-
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProsperousRF)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousRF&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
--->
+<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousRF&hide_border=true&langs_count=3" alt="Top Langs">
+</a>
 
 ---
 
