@@ -7,6 +7,7 @@
 
 Licenses & Certifications:
 * [Java Core](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
+* [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/N6NNP22RE2NP)
 
 ---
 
