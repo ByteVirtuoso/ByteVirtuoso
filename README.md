@@ -1,6 +1,6 @@
 ## Hi I'm Stanislav. 👋
 
-#### I am a Voice (VoIP) Engineer with 20+ years of experience in the industry
+#### I am a Telecommunication Voice Engineer (VoIP) with 20+ years of experience in the industry
 #### learning Java by myself
 #### Looking for a job as a Java Developer
 
