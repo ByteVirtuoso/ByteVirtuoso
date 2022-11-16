@@ -7,7 +7,7 @@
 ---
 
 Licenses & Certifications:
-* [Java Core](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
+* [Java Core Specialization](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
 * [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/N6NNP22RE2NP)
 * [Object Oriented Programming in Java Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/JXR3UUZKW9HN)
 * [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/UG72PW58L8CC)
