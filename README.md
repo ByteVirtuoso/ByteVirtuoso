@@ -1,61 +1,55 @@
-## Hi I'm Stanislav. 👋
+Hi 👋 My name is Stanislav Rakitov
+==================================
 
-#### I am a Telecommunication Voice Engineer (VoIP) with 20+ years of experience in the industry
-#### learning Java by myself
-#### Looking for a job as a Java Developer
+VoIP Engineer becomig a Software Developer
+------------------------------------------
 
----
+Telecommunication Voice Engineer (VoIP) with 20+ years of experience in the industry. 
+More than 15 years of work in banks. 
 
-Licenses & Certifications:
-* [Java Core Specialization](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
-* [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/N6NNP22RE2NP)
-* [Object Oriented Programming in Java Specialization](https://coursera.org/share/9f823f0e2305aaa4835cd438f32a72a1)
-* [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://coursera.org/share/76ac23c0a90d66b3b4c76986b6271b60)
+Looking for ideas of a pet projects (the real ones) and a mentor who can advice me. 
 
----
+And last but not least, I am looking for software developer job.
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ProsperousRF&count_private=true&include_all_commits=true&disable_animations=true&hide_border=true&line_height=27" alt="Stanislav's GitHub stats">
-</a>
+* 🌍  I'm based in Moscow, Russia (desperately need to relocate)
+* ✉️  You can contact me at [prosperousrf@gmail.com](mailto:prosperousrf@gmail.com)
+* 🧠  I'm learning Spring framework, SQL
+* 🤝  I'm open to collaborating on any telephony app
+* ⚡  My Licenses & Certifications (The most important I guess):
+	* [Java Core Specialization](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
+	* [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/N6NNP22RE2NP)
+	* [Object Oriented Programming in Java Specialization](https://coursera.org/share/9f823f0e2305aaa4835cd438f32a72a1)
+	* [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://coursera.org/share/76ac23c0a90d66b3b4c76986b6271b60)
 
-<a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ProsperousRF&hide_border=true&langs_count=3" alt="Top Langs">
-</a>
+### Skills
 
----
 
-<p align="center">
-	<a href="https://twitter.com/ProsperousRF">
-		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-	</a>
-	<a href="https://www.linkedin.com/in/mrrakitov/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-	</a>
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 
+### Socials
 
-<!--
-https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white
-https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white
-https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white
+<p align="left">
+	<a href="https://www.linkedin.com/in/prosperousrf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+	<a href="https://www.stackoverflow.com/users/5437076" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
+	<a href="https://www.twitter.com/prosperousrf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white
+### Badges
 
-<!--
-**ProsperousRF/ProsperousRF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<b>My GitHub Stats</b>
 
-Here are some ideas to get you started:
+<a href="http://www.github.com/prosperousrf"><img src="https://github-readme-stats.vercel.app/api?username=prosperousrf&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="prosperousrf's GitHub stats" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="http://www.github.com/prosperousrf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prosperousrf&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/prosperousrf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
