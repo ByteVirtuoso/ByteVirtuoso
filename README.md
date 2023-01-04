@@ -14,9 +14,16 @@ And last but not least, I am looking for software developer job.
 * 🌍  I'm based in Moscow, Russia (and I desperately need to relocate)
 * 🧠  I'm still learning a lot of stuff like Spring framework, SQL, MQ, etc.
 
-* ⚡  My Licenses & Certifications (The most important I guess):
+### 🛠 Tech Stack
+
+- 💻 Java | Python 
+- 🌐 HTML | CSS | Javascript
+- 🛢 MySQL | PostgreSQL
+- 🔧 Git | Github  
+
+* ⚡  My Licenses & Certifications (Some of them):
 	* [Java Core Specialization](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
-	* [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/N6NNP22RE2NP)
+	* [Java Programming and Software Engineering Fundamentals](https://coursera.org/share/2486975390834ee185ab0e14b336702b)
 	* [Object Oriented Programming in Java Specialization](https://coursera.org/share/9f823f0e2305aaa4835cd438f32a72a1)
 	* [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://coursera.org/share/76ac23c0a90d66b3b4c76986b6271b60)
 
