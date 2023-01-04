@@ -11,10 +11,9 @@ Looking for ideas of a pet projects (the real ones) and a mentor who can advice 
 
 And last but not least, I am looking for software developer job.
 
-* 🌍  I'm based in Moscow, Russia (desperately need to relocate)
-* ✉️  You can contact me at [prosperousrf@gmail.com](mailto:prosperousrf@gmail.com)
-* 🧠  I'm learning Spring framework, SQL
-* 🤝  I'm open to collaborating on any telephony app
+* 🌍  I'm based in Moscow, Russia (and I desperately need to relocate)
+* 🧠  I'm still learning a lot of stuff like Spring framework, SQL, MQ, etc.
+
 * ⚡  My Licenses & Certifications (The most important I guess):
 	* [Java Core Specialization](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
 	* [Java Programming and Software Engineering Fundamentals](https://www.coursera.org/account/accomplishments/specialization/N6NNP22RE2NP)
