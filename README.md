@@ -1,18 +1,16 @@
 Hi 👋 My name is Stanislav Rakitov
 ==================================
 
-VoIP Engineer becomig a Software Developer
-------------------------------------------
+VoIP Engineer & Software Developer
+----------------------------------
 
 Telecommunication Voice Engineer (VoIP) with 20+ years of experience in the industry. 
-More than 15 years of work in banks. 
+More than 15 years of work at banks. 
 
-Looking for ideas of a pet projects (the real ones) and a mentor who can advice me. 
+Looking for a software developer job.
 
-And last but not least, I am looking for software developer job.
-
-* 🌍  I'm based in Moscow, Russia (and I desperately need to relocate)
-* 🧠  I'm still learning a lot of stuff like Spring framework, SQL, MQ, etc.
+* 🌍  I'm based in Moscow, Russia (and I have to relocate)
+* 🧠  I'm still learning a lot of stuff like Spring, SQL, Go.
 
 ### 🛠 Tech Stack
 
