@@ -4,28 +4,86 @@ Hi 👋 My name is Stanislav Rakitov
 VoIP Engineer & Software Developer
 ----------------------------------
 
-Telecommunication Voice Engineer (VoIP) with 20+ years of experience in the industry. 
-More than 15 years of work at banks. 
+I am a telecommunication engineer with over 20 years of experience in the field. However, in recent years, I have developed a keen interest in software development, which led me to learn Java and Python. 
 
-Looking for a software developer job.
+I have completed many courses on platforms such as JavaRush, Coursera, and Udemy. I have expertise in object-oriented programming (OOP), project management, teamwork, and agile methodologies.
 
-* 🌍  I'm based in Moscow, Russia (and I have to relocate)
-* 🧠  I'm still learning a lot of stuff like Spring, SQL, Go.
+I believe that combining my telecommunication engineering expertise with software development skills will enable me to develop innovative solutions that can transform the telecommunications industry.
 
-### 🛠 Tech Stack
+### Skills
 
-- 💻 Java | Python 
-- 🌐 HTML | CSS | Javascript
-- 🛢 MySQL | PostgreSQL
-- 🔧 Git | Github  
+- VOIP Technologies: SIP, H.323, videoconferencing, E1 trunks
+- Project Management: Agile, Scrum, project planning, budgeting, team management
+- Programming Languages: Python, Java
+- Apache Maven
+- OOP
+- Git and GitHub
+- SQL
+- Linux
+- Docker
+- Apache Tomcat
+- Spring Framework
+- Atlassian Confluence and Jira
+- TDD
+- Unit testing
+- JUnit
+- Refactoring
+- Intellij IDEA
+- Pycharm
+- JSON and REST API
 
-* ⚡  My Licenses & Certifications (Some of them):
+### Goals
+My ultimate goal is to become a software developer and use my skills and experience to develop innovative solutions that can revolutionize the telecommunications industry. I plan to continue learning new programming languages and tools, including cloud computing, to stay up-to-date with the latest industry trends and technologies.
+
+
+### Education
+
+I have completed a variety of online courses related to programming, software development, and database management. These include:
+
+Java:
+
+- Introduction to Object-Oriented Programming with Java (Coursera)
+- Object-Oriented Hierarchies in Java (Coursera)
+- Introduction to Java (Coursera)
+- Java Class Library (LearnQuest)
+- Java Programming: Solving Problems with Software (Duke University)
+- Java Programming: Build a Recommendation System (Duke University)
+- Java Programming: Principles of Software Design (Duke University)
+- Arrays, Lists, and Structured Data (Duke University)
+- Object Oriented Programming in Java (University of California San Diego)
+- Object Oriented Programming in Java Specialization (University of California San Diego, Duke University)
+- Parallel Programming in Java (Rice University)
+- Concurrent Programming in Java (Rice University)
+- Parallel, Concurrent, and Distributed Programming in Java Specialization (Rice University)
+- Distributed Programming in Java (Rice University)
+
+
+Other programming languages and technologies:
+
+- Programming Foundations with JavaScript, HTML and CSS (Duke University)
+- Introduction to Computer Science and Programming Using Python (edX)
+- Introduction to HTML5 (Coursera)
+
+
+Database management:
+
+- Querying Microsoft SQL Server (Microsoft)
+
+
+### Developer experience
+I have experience in developing Java applications in accordance with technical specifications, creating new functional modules, and modifying existing business logic. I have also worked on debugging and testing code, as well as writing unit tests. I am familiar with Docker, Git repositories, and the creation of SQL queries.
+
+
+### Contact me
+If you want to discuss a project or just say hi, you can reach me at my LinkedIn profile: linkedin.com/in/ProsperousRF. I'm always open to new opportunities and collaborations.
+
+<!-- * ⚡  My Licenses & Certifications (Some of them):
 	* [Java Core Specialization](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
 	* [Java Programming and Software Engineering Fundamentals](https://coursera.org/share/2486975390834ee185ab0e14b336702b)
 	* [Object Oriented Programming in Java Specialization](https://coursera.org/share/9f823f0e2305aaa4835cd438f32a72a1)
 	* [Parallel, Concurrent, and Distributed Programming in Java Specialization](https://coursera.org/share/76ac23c0a90d66b3b4c76986b6271b60)
-
-### Skills
+ -->
+<!-- ### Skills
 
 
 <p align="left">
@@ -37,7 +95,7 @@ Looking for a software developer job.
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-
+ -->
 ### Socials
 
 <p align="left">
@@ -54,6 +112,6 @@ Looking for a software developer job.
 <a href="http://www.github.com/prosperousrf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prosperousrf&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-### Support Me
+<!-- ### Support Me
 
-<a href="https://www.buymeacoffee.com/prosperousrf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/prosperousrf"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a> -->
