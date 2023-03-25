@@ -1,6 +1,5 @@
-Hi 👋 My name is Stanislav Rakitov
+Stanislav Rakitov
 ==================================
-
 VoIP Engineer & Software Developer
 ----------------------------------
 
@@ -14,23 +13,21 @@ I believe that combining my telecommunication engineering expertise with softwar
 
 - VOIP Technologies: SIP, H.323, videoconferencing, E1 trunks
 - Project Management: Agile, Scrum, project planning, budgeting, team management
-- Programming Languages: Python, Java
+- Object-oriented programming (OOP)
+- Programming Languages: Java, Python
+- JSON and REST API
+- Spring Framework
 - Apache Maven
-- OOP
 - Git and GitHub
 - SQL
 - Linux
 - Docker
-- Apache Tomcat
-- Spring Framework
+- Test-driven development (TDD) and Unit testing (JUnit)
+- Refactoring code
 - Atlassian Confluence and Jira
-- TDD
-- Unit testing
-- JUnit
-- Refactoring
 - Intellij IDEA
 - Pycharm
-- JSON and REST API
+
 
 ### Goals
 My ultimate goal is to become a software developer and use my skills and experience to develop innovative solutions that can revolutionize the telecommunications industry. I plan to continue learning new programming languages and tools, including cloud computing, to stay up-to-date with the latest industry trends and technologies.
@@ -75,7 +72,12 @@ I have experience in developing Java applications in accordance with technical s
 
 
 ### Contact me
-If you want to discuss a project or just say hi, you can reach me at my LinkedIn profile: linkedin.com/in/ProsperousRF. I'm always open to new opportunities and collaborations.
+If you want to discuss a project or just say hi, you can reach me at my 
+- <a href="https://www.linkedin.com/in/prosperousrf" target="_blank" rel="noreferrer">LinkedIn</a> 
+- <a href="https://www.stackoverflow.com/users/5437076" target="_blank" rel="noreferrer">StackOverflow</a> 
+- <a href="https://www.twitter.com/prosperousrf" target="_blank" rel="noreferrer">Twitter</a>
+
+I'm always open to new opportunities and collaborations.
 
 <!-- * ⚡  My Licenses & Certifications (Some of them):
 	* [Java Core Specialization](https://coursera.org/share/c3b56e4d583788e78ba84d15c8bb567a)
@@ -96,16 +98,17 @@ If you want to discuss a project or just say hi, you can reach me at my LinkedIn
 </p>
 
  -->
-### Socials
+<!-- ### Socials
 
 <p align="left">
 	<a href="https://www.linkedin.com/in/prosperousrf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 	<a href="https://www.stackoverflow.com/users/5437076" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> 
-	<a href="https://www.twitter.com/prosperousrf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+	<a href="https://www.twitter.com/prosperousrf" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p> -->
+<!-- 
 ### Badges
+ -->
 
-<b>My GitHub Stats</b>
+### GitHub Stats
 
 <a href="http://www.github.com/prosperousrf"><img src="https://github-readme-stats.vercel.app/api?username=prosperousrf&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="prosperousrf's GitHub stats" /></a>
 
