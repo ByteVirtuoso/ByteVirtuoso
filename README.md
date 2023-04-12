@@ -57,7 +57,7 @@ Java:
 
 Other programming languages and technologies:
 
-- 100 Days of Code: The Complete Python Pro Bootcamp for 2023
+- 100 Days of Code: The Complete Python Pro Bootcamp for 2023 (Udemy)
 - Programming Foundations with JavaScript, HTML and CSS (Duke University)
 - Introduction to Computer Science and Programming Using Python (edX)
 - Introduction to HTML5 (Coursera)
