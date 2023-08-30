@@ -76,7 +76,7 @@ I have experience in developing Java applications in accordance with technical s
 If you want to discuss a project or just say hi, you can reach me at my 
 - <a href="https://www.linkedin.com/in/prosperousrf" target="_blank" rel="noreferrer">LinkedIn</a> 
 - <a href="https://www.stackoverflow.com/users/5437076" target="_blank" rel="noreferrer">StackOverflow</a> 
-- <a href="https://www.twitter.com/prosperousrf" target="_blank" rel="noreferrer">Twitter</a>
+- <a href="https://www.twitter.com/SkyrocketStan" target="_blank" rel="noreferrer">Twitter</a>
 
 I'm always open to new opportunities and collaborations.
 
@@ -114,7 +114,7 @@ I'm always open to new opportunities and collaborations.
 
 <a href="http://www.github.com/prosperousrf"><img src="https://github-readme-stats.vercel.app/api?username=prosperousrf&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="prosperousrf's GitHub stats" /></a>
  -->
-<a href="http://www.github.com/ByteVirtuoso"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ByteVirtuoso&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/SkyrocketStan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyrocketStan&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
 <!-- ### Support Me
