@@ -74,7 +74,7 @@ I have experience in developing Java applications in accordance with technical s
 
 ### Contact me
 If you want to discuss a project or just say hi, you can reach me at my 
-- <a href="https://www.linkedin.com/in/prosperousrf" target="_blank" rel="noreferrer">LinkedIn</a> 
+- <a href="https://www.linkedin.com/in/SkyrocketStan" target="_blank" rel="noreferrer">LinkedIn</a> 
 - <a href="https://www.stackoverflow.com/users/5437076" target="_blank" rel="noreferrer">StackOverflow</a> 
 - <a href="https://www.twitter.com/SkyrocketStan" target="_blank" rel="noreferrer">Twitter</a>
 
